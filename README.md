@@ -2,7 +2,7 @@
 ### I'm a Frontend Developer Student
 :computer: My natural curiosity and special attention to detail made me fall in love with technology. I love the idea of creating things that have a transformative impact on how people engage with the world.<br>
 <br>
-:star: I have experience building applications using HTML, CSS, JavaScript, and React.<br>
+:star: I have experience building applications using HTML, CSS, JavaScript, TypeScript and React.<br>
 <br>
 :rocket: Right now, my main focus is on enhancing my web development skills and staying up to date with the latest technologies.
 
