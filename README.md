@@ -1,4 +1,4 @@
-## Hello, I'm Carol! 	:raising_hand_woman:
+## Hello, I'm Carol! :wave:
 ### I'm a Frontend Developer Student
 :computer: My natural curiosity and special attention to detail made me fall in love with technology. I love the idea of creating things that have a transformative impact on how people engage with the world.<br>
 <br>
