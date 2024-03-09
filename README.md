@@ -1,5 +1,5 @@
 ## Hello, I'm Carol! :wave:
-### I'm a Frontend Developer Student
+### I'm a Frontend Developer
 :computer: My natural curiosity and special attention to detail made me fall in love with technology. I love the idea of creating things that have a transformative impact on how people engage with the world.<br>
 <br>
 :star: I have experience building applications using HTML, CSS, JavaScript, TypeScript and React.<br>
